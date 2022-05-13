@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkyour_burger"]=self["webpackChunkyour_burger"]||[]).push([[550],{7161:function(r,n,u){u.r(n),u.d(n,{default:function(){return f}});var e=u(3396);const t={class:"main-container"},c=(0,e._)("h1",null,"Pedidos",-1),s=[c];function a(r,n){return(0,e.wg)(),(0,e.iD)("div",t,s)}var i=u(89);const o={},d=(0,i.Z)(o,[["render",a]]);var f=d}}]);
-//# sourceMappingURL=pedidos.0495598a.js.map
